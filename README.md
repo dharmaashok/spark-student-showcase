@@ -1,4 +1,4 @@
-# Spark Student Showcase - Akash's Portfolio
+# Spark Student Showcase - Dharma's Portfolio
 
 A full-stack portfolio application featuring a modern React frontend with an Express.js backend API. This project showcases web development skills through a clean, responsive design and robust backend infrastructure.
 
